@@ -1,4 +1,4 @@
-![Header](./[])
+![Header](./Header.png)
 <h1 align="center">Hi 👋, I'm Harsh Gaur</h1>
 <h3 align="center">An upcoming Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
