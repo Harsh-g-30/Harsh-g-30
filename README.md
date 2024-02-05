@@ -1,21 +1,21 @@
 ![Header](./Header.png)
 <h1 align="center">Hi 👋, I'm Harsh Gaur</h1>
-<h3 align="center">An upcoming Data Scientist</h3>
+<h3 align="center">An upcoming Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-g-30&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-g-30" /> </p>
 
 - 🔭 I study at **Vellore Institute Of Technology**
 
-- 🌱 I’m currently learning **Deep Learning, Neural Networks**
+- 🌱 I’m currently learning **Diving deep into field of Data Analysis and more**
 
-- 👯 I am currently focused on **Placements**
+- 👯 I am currently looking for **a job in the field of data analysis**
 
-- 👨‍💻 I code in [C++](C++)
+- 👨‍💻 I code in [C++](C++) and Python
 
 - 📝 My area of expertise is [Data Analytics, Machine Learning](Data Analytics, Machine Learning)
 
-- 💬 Ask me about **Data Analytics, Web Dev Frontend, Machine Learning**
+- 💬 Ask me about **Data Analytics, Data Science, GenAi**
 
 - 📫 How to reach me **harsh1190.gaur@gmail.com**
 
