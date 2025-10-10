@@ -1,25 +1,25 @@
 ![Header](./Header.png)
 <h1 align="center">Hi 👋, I'm Harsh Gaur</h1>
-<h3 align="center">Upcoming System Engineer at TCS</h3>
+<h3 align="center">AI Software Engineer at TCS</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-g-30&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-g-30" /> </p>
 
 - 🔭 I studied at **Vellore Institute Of Technology**
 
-- 🌱 I’m currently **Diving deep into field of Data Analysis and more**
+- 🌱 I’m currently **Working on AgenticAI**
 
-- 👯 I am currently looking for **Better job oppourtunities**
+- 👯 I am currently looking for **Software & AI Roles.**
 
-- 👨‍💻 I code in [C++](C++) and Python
+- 👨‍💻 I code in Python and Java.
 
-- 📝 My area of expertise is [Data Analytics, Machine Learning](Data Analytics, Machine Learning)
+- 📝 My area of expertise is AI/ML, Data.
 
-- 💬 Ask me about **Data Analytics**
+- 💬 Ask me about **AI**
 
 - 📫 How to reach me **harsh1190.gaur@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1b4Zau0ZAF73-BHhMKKZLgU3CV0rqm3UJ/view?usp=sharing](https://drive.google.com/file/d/1b4Zau0ZAF73-BHhMKKZLgU3CV0rqm3UJ/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1Rfxt4fcmqvDY2EUydv66oKYo4aOJBLcr/view?usp=sharing
 
 - ⚡ Fun fact **I love beatboxing**
 
